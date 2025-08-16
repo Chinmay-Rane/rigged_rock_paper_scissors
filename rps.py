@@ -62,7 +62,7 @@ if(player=="paper"):
     taunt = random.choice(scissors)
     print(".\n.\n.\n.\n")
     print(taunt)
-if(player=="scissor"):
+if(player=="scissors"):
     print("Computer: rock")
     print("You: scissors")
     taunt = random.choice(rock)
